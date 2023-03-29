@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/framework/src/main/resources/mapper/ArticleTagMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/framework/src/main/resources/mapper/MenuMapper.xml" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/framework/src/main/resources/mapper/RoleMapper.xml" dialect="MySQL" />
+  </component>
+</project>
