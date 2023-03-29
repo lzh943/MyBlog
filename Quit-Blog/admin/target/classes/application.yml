@@ -28,19 +28,19 @@ mybatis-plus:
       id-type: auto
 
 oss:
-  accessKey: 5NMQ-l5wpJmhhj5LBn16iFKgkTD9gRdy4copKpLP
-  secretKey: R29qfn8V9KW4sPbSHktmtPjlWTR64niSIa82mdmg
+  accessKey: 
+  secretKey:
   bucket: qx--blog
 
 tencent:
   cos:
     #腾讯云对象存储参数
     #腾讯云账户secretId，secretKey
-    secretId: AKIDzuc6KM8eV5OcniNn1Tl9IG0UnsfBQP7Y
-    secretKey: ECziRvhVAdqpY1DD2asuf9PPAftulRsE
+    secretId: 
+    secretKey:
     #存储桶名称
-    buckerName: quit-blog-1316955252
+    buckerName: 
     #地域
     region: ap-shanghai
     #请求域名（使用对应的存储桶和对应的地域）
-    url: https://quit-blog-1316955252.cos.ap-shanghai.myqcloud.com
+    url: 
